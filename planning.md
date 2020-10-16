@@ -21,6 +21,7 @@
 ### Lieu du séminaire 
 
 à L'INHA (soucis avec les dernières restrictions) ?
+Living-Lab ?
 
 ## Organisation des 4 jours
 
