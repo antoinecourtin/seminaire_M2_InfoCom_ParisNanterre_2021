@@ -22,6 +22,7 @@
 
 à L'INHA (soucis avec les dernières restrictions) ?
 Living-Lab ?
+Lundi et vendredi à Paris10
 
 ## Organisation des 4 jours
 
