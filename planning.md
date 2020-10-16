@@ -17,23 +17,32 @@
 
 ### Lieu du séminaire 
 
-?
+à L'INHA (soucis avec les dernières restrictions) ?
 
 ## Organisation des 4 jours
 
 
 #### 1er jour :
 * Présentation global du séminaire 
-* 1er intervenant 
+* 1ère intervention 
+* Présentation des jeux de données
+* Atelier n°1 : où et comment trouver des jeux de données annexes
 
 #### 2ème jour :
-
+* atelier n°2 : data wrangling et OpenRefine
+* 2ème intervention 
+* projet d'équipe
 #### 3ème jour :
-
+* atelier n°3 : github
+* projet d'équipe 
 #### 4ème jour :
-
+* projet d'équipe
+* restitution
+* conclusion
 
 ## Liste des intervenants préssentis 
 
 * Loïc Haÿ
-* 
+* Samuel Goëta
+* Paul-Antoine Chevalier
+* Karen Bastien
