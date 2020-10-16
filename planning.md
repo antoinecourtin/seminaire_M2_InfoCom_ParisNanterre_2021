@@ -4,7 +4,16 @@
 
 * Monté en compétence active sur des outils/bonnes pratiques autour des données patrimoniales
 * rencontrer des professionnels de l'information
-* réaliser des micro-pr
+* réaliser par groupe des exploitations de données
+* mettre en pratique des notions/bonnes pratiques évoquées dans les cours :
+    * **4L9IF0P2**Gouvernance de l'information, qualité, archivage
+    * **4L9IF0P3** Analyse de données et datavisualisation
+
+### Liste des micro-formation/présentation lors du séminaire
+
+* travailler collaborativement : pad / github
+* data wrangling tools : openrefine / Daitaku
+* trouver/exploiter des données : data.gouv / zenodo / wikidata
 
 ### Lieu du séminaire 
 
@@ -26,4 +35,5 @@
 
 ## Liste des intervenants préssentis 
 
-* Loic Hay
+* Loïc Haÿ
+* 
