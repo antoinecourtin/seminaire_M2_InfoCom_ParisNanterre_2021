@@ -9,6 +9,9 @@
     * **4L9IF0P2**Gouvernance de l'information, qualité, archivage
     * **4L9IF0P3** Analyse de données et datavisualisation
 
+### Idée
+*  invité 4-5 personnes du parcours CRDM pour communiquer sur le séminaire
+
 ### Liste des micro-formation/présentation lors du séminaire
 
 * travailler collaborativement : pad / github
