@@ -1,6 +1,8 @@
 # Planning
 
-> Rappel des objectids du séminaire **Modélisation, représentions et données**
+:warning: Ce planning prévisionnel est susceptible d'être modifié aux cours des semaines à venir en fonction de l'évolution de la situation sanitaire
+
+### Rappel des objectids du séminaire **Modélisation, représentions et données**
 
 * Monté en compétence active sur des outils/bonnes pratiques autour des données patrimoniales
 * rencontrer des professionnels de l'information
@@ -21,25 +23,25 @@
 ### Lieu du séminaire 
 
 à L'INHA (soucis avec les dernières restrictions) ?
-Living-Lab ?
 Lundi et vendredi à Paris10
 
 ## Organisation des 4 jours
-
 
 #### 1er jour :
 * Présentation global du séminaire 
 * 1ère intervention 
 * Présentation des jeux de données
-* Atelier n°1 : où et comment trouver des jeux de données annexes
+* Atelier n°1 : où et comment trouver des jeux de données annexes 
 
 #### 2ème jour :
-* atelier n°2 : data wrangling et OpenRefine
+* atelier n°2 : OpenRefine (utilisation avancée)
 * 2ème intervention 
 * projet d'équipe
+
 #### 3ème jour :
-* atelier n°3 : github
+* atelier n°3 : github (utilisation avancée)
 * projet d'équipe 
+
 #### 4ème jour :
 * projet d'équipe
 * restitution
