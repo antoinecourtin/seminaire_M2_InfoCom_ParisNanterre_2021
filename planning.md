@@ -5,13 +5,8 @@ Ce planning prévisionnel est susceptible d'être modifié aux cours des semaine
 ### Rappel des objectids du séminaire **Modélisation, représentions et données**
 
 * Monté en compétence active sur des outils/bonnes pratiques autour des données patrimoniales
-* réaliser par groupe des exploitations de données
-* mettre en pratique des notions/bonnes pratiques évoquées dans les cours :
-    * **4L9IF0P2**Gouvernance de l'information, qualité, archivage
-    * **4L9IF0P3** Analyse de données et datavisualisation
+* réaliser par groupe des exploitations de données dans une approche dite de **DataStorytelling**
 
-### Idée
-*  invité 4-5 personnes du parcours CRDM pour communiquer sur le séminaire
 
 ### Liste des micro-formation/présentation lors du séminaire
 
