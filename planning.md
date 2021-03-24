@@ -1,11 +1,10 @@
 # Planning
 
-:warning: Ce planning prévisionnel est susceptible d'être modifié aux cours des semaines à venir en fonction de l'évolution de la situation sanitaire
+Ce planning prévisionnel est susceptible d'être modifié aux cours des semaines à venir en fonction de l'évolution de la situation sanitaire
 
 ### Rappel des objectids du séminaire **Modélisation, représentions et données**
 
 * Monté en compétence active sur des outils/bonnes pratiques autour des données patrimoniales
-* rencontrer des professionnels de l'information
 * réaliser par groupe des exploitations de données
 * mettre en pratique des notions/bonnes pratiques évoquées dans les cours :
     * **4L9IF0P2**Gouvernance de l'information, qualité, archivage
@@ -18,38 +17,43 @@
 
 * travailler collaborativement : pad / github
 * data wrangling tools : openrefine / Daitaku
-* trouver/exploiter des données : data.gouv / zenodo / wikidata
+* cartographie : umaps
+* annotation d'image sur wikipedia commons : commons / wikidata / IIIF
 
-### Lieu du séminaire 
+### Lieu du séminaire et horaires
 
-à L'INHA (soucis avec les dernières restrictions) ?
-Lundi et vendredi à Paris10
+* Paris Nanterre, bâtiment de la formation continue (salle en cours de réservation)
+* Visio-conférence pour les sessions plénières (à confirmer)
+* Horaire : 9h30-12h30 / 14H-17h
 
-## Organisation des 4 jours
+## Organisation de la semaine
 
-#### 1er jour :
-* Présentation global du séminaire 
-* 1ère intervention 
-* Présentation des jeux de données
-* Atelier n°1 : où et comment trouver des jeux de données annexes 
+#### Lundi 3 mai :
+* Matin
+   * 9h30 : Accueil, présentation globale du séminaire (horaire, organisation, etc.)
+   * 10h : Présentation croisée des 2 sessions en parralèle (INHA / INA)
+   * 11h : Présentation de l'INHA
+   * 12h : Echanges et questions
+* Après-midi 
+   * 13h30 : les inscriptions aux 2 sessions sont ouvertes (cloture à 18h)
+   * 14h : présentation des outils de l'INA
 
-#### 2ème jour :
-* atelier n°2 : OpenRefine (utilisation avancée)
-* 2ème intervention 
-* projet d'équipe
+
+#### Mardi 4 mai  :
+* Matin
+   * 
+* Après-midi 
+
 
 #### 3ème jour :
-* atelier n°3 : github (utilisation avancée)
-* projet d'équipe 
+* Matin
+* Après-midi 
+
 
 #### 4ème jour :
-* projet d'équipe
-* restitution
-* conclusion
+* Matin
+* Après-midi 
 
-## Liste des intervenants préssentis 
-
-* Loïc Haÿ
-* Samuel Goëta
-* Paul-Antoine Chevalier
-* Karen Bastien
+#### 5ème jour :
+* Matin
+* Après-midi 
