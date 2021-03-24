@@ -2,11 +2,15 @@
 
 Ce planning prévisionnel est susceptible d'être modifié aux cours des semaines à venir en fonction de l'évolution de la situation sanitaire
 
-### Rappel des objectids du séminaire **Modélisation, représentions et données**
+### Rappel des objectifs du séminaire **Modélisation, représentions et données**
 
 * Monté en compétence active sur des outils/bonnes pratiques autour des données patrimoniales
 * réaliser par groupe des exploitations de données dans une approche dite de **DataStorytelling**
 
+### Modalité de rendu 
+
+* un format en ligne de type Github Pages
+* article que sera repris sur le carnet de recherche du [service numérique de la recherche de l'INHA](http://numrha.hypotheses.org/)
 
 ### Liste des micro-formation/présentation lors du séminaire
 
