@@ -40,19 +40,27 @@ Ce planning prévisionnel est susceptible d'être modifié aux cours des semaine
 
 #### Mardi 4 mai  :
 * Matin
-   * 
+   * Formation 
 * Après-midi 
+  * travaux de groupe
 
 
 #### 3ème jour :
 * Matin
+    * travaux de groupe
+    * tour des groupe 
 * Après-midi 
 
 
 #### 4ème jour :
-* Matin
+* Matin 
+  * travaux de groupe
 * Après-midi 
+  * travaux de groupe
+  * tour des groupes
 
 #### 5ème jour :
 * Matin
+  * Présentation des travaux 
 * Après-midi 
+  * temps convivial 
