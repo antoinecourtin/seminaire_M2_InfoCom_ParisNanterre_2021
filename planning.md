@@ -15,7 +15,7 @@ Ce planning prévisionnel est susceptible d'être modifié aux cours des semaine
 ### Liste des micro-formation/présentation lors du séminaire
 
 * travailler collaborativement : pad / github
-* data wrangling tools : openrefine / Daitaku
+* data wrangling tools : openrefine 
 * cartographie : umaps
 * annotation d'image sur wikipedia commons : commons / wikidata / IIIF
 
@@ -40,15 +40,16 @@ Ce planning prévisionnel est susceptible d'être modifié aux cours des semaine
 
 #### Mardi 4 mai  :
 * Matin
-   * Formation 
+   * micro-formation 
 * Après-midi 
   * travaux de groupe
 
 
 #### 3ème jour :
 * Matin
+    * micro-formation 
     * travaux de groupe
-    * tour des groupe 
+    * tour des groupes 
 * Après-midi 
 
 
