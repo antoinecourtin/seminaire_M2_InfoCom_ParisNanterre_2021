@@ -1,13 +1,17 @@
 ## Présentation des 3 projets 
 
 > 3 projets sont proposés
+
 > 1 projet peut être porté par plusieurs équipes.
 
 ### Projet  1 :  Provenance
 
 L'objectif de ce projet est de s'intéresser à la mobilité des oeuvres dans leurs parcours de vie et donc de s'intéresser à leurs provenances.
 > visualiser des transferts d'oeuvres (de leurs lieux de production à leurs lieux de conservation actuel, etc.)
+
 > outils envisagés : excel, openrefine, flourish
+
+> [voir le jeux de données]()
 
 ### Projet 2 : Matérialité
 
