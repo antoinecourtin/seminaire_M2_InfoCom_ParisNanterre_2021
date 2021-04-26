@@ -4,7 +4,7 @@
 
 ### Composition du coprus téléchargé :
 
-Ce fichier readme précise la structure des 3 fichiers téléchargés, à savoir :
+Ce fichier readme précise la structure des 3 fichiers présent dans le [répertoire suivant](datasetProvenance/), à savoir :
 1. INHA_objets.csv : contient tous les objets
 2. INHA_ventes.csv : contient pour chaque objets, toutes les ventes qui lui sont associées
 3. INHA_acteurs.csv : contient une description a minima des acteurs en lien avec le fichier INHA_ventes.csv
