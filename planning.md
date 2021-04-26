@@ -17,20 +17,22 @@ Ce planning prévisionnel est susceptible d'être modifié aux cours des semaine
    * 12h : Echanges et questions
 * Après-midi 
    * 13h30 : les inscriptions aux 2 sessions sont ouvertes (cloture à 18h)
-   * 14h : présentation des outils de l'INA
-
+   * 14h-17h : présentation des outils de l'INA
 
 #### Mardi 4 mai  :
 * Matin
-   * micro-formation 
+   * Echange et constitution définitif des groupes
+   * Problématisation du projet et receuil des besoins
+   * formation flash
 * Après-midi 
+  * formation flash
   * travaux de groupe
   * 16h30 : présentation des supports de chaque équipe
 
 
 #### Mercredi 5 mai :
 * Matin
-    * micro-formation 
+    * formation flash
     * travaux de groupe
 * Après-midi 
   * travaux de groupe
@@ -39,6 +41,7 @@ Ce planning prévisionnel est susceptible d'être modifié aux cours des semaine
 
 #### Jeudi 6 mai :
 * Matin 
+  * formation flash
   * travaux de groupe
 * Après-midi 
   * travaux de groupe
@@ -48,5 +51,3 @@ Ce planning prévisionnel est susceptible d'être modifié aux cours des semaine
 #### Vendredi 7 mai :
 * Matin
   * Présentation en plénière des travaux de chaque groupe des 2 séminaires (INA et INHA)
-* Après-midi 
-  * temps convivial 
