@@ -10,5 +10,9 @@ Accès au :
 * [présentation des axes pour les projets](/projets.md)
 * [présentation des datasets](/datasets/presentation.md)
 
-![datagif](https://media0.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif)
-![datagif](https://media1.giphy.com/media/1dMhBj4X5uLVksrQCo/giphy.gif)
+| First Header  | Second Header |
+| ------------- | ------------- |
+| ![datagif](https://media0.giphy.com/media/3osxYc2axjCJNsCXyE/giphy.gif)
+ | ![datagif](https://media1.giphy.com/media/1dMhBj4X5uLVksrQCo/giphy.gif)
+  |
+
