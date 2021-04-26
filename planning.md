@@ -9,14 +9,15 @@ Ce planning prévisionnel est susceptible d'être modifié aux cours des semaine
 
 ### Modalité de rendu 
 
-* un format en ligne de type Github Pages
-* article que sera repris sur le carnet de recherche du [service numérique de la recherche de l'INHA](http://numrha.hypotheses.org/)
+* Chaque soir, un rendu de 1 à 3 slides maximum pour détailler l'avancée du projet
+* un format en ligne de type Github Pages qui centralisera vos réalisations, vos fichiers de travails, etc.
+* un article qui introduira votre production sur Github Pages et que sera repris sur le carnet de recherche du [service numérique de la recherche de l'INHA](http://numrha.hypotheses.org/) 
 
-### Liste des micro-formation/présentation lors du séminaire
+### Liste des micro-formation/présentation lors du séminaire (à confirmer)
 
 * travailler collaborativement : pad / github
 * data wrangling tools : openrefine 
-* cartographie : umaps
+* cartographie et visualisation : umaps / flourish 
 * annotation d'image sur wikipedia commons : commons / wikidata / IIIF
 
 ### Lieu du séminaire et horaires
@@ -27,7 +28,7 @@ Ce planning prévisionnel est susceptible d'être modifié aux cours des semaine
 
 ## Organisation de la semaine
 
-#### Lundi 3 mai :
+#### Lundi 3 mai (horaires précis à confirmer) :
 * Matin
    * 9h30 : Accueil, présentation globale du séminaire (horaire, organisation, etc.)
    * 10h : Présentation croisée des 2 sessions en parralèle (INHA / INA)
@@ -43,25 +44,28 @@ Ce planning prévisionnel est susceptible d'être modifié aux cours des semaine
    * micro-formation 
 * Après-midi 
   * travaux de groupe
+  * 16h30 : présentation des supports de chaque équipe
 
 
-#### 3ème jour :
+#### Mercredi 5 mai :
 * Matin
     * micro-formation 
     * travaux de groupe
-    * tour des groupes 
 * Après-midi 
+  * travaux de groupe
+  * 16h30 : présentation des supports de chaque équipe
 
 
-#### 4ème jour :
+#### Jeudi 6 mai :
 * Matin 
   * travaux de groupe
 * Après-midi 
   * travaux de groupe
-  * tour des groupes
+  * 16h30 : présentation des supports de chaque équipe
 
-#### 5ème jour :
+
+#### Vendredi 7 mai :
 * Matin
-  * Présentation des travaux 
+  * Présentation en plénière des travaux de chaque groupe des 2 séminaires (INA et INHA)
 * Après-midi 
   * temps convivial 
