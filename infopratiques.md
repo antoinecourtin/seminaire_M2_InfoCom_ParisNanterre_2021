@@ -13,10 +13,6 @@
 * Nicolas Sauret : (présent le mardi, mercredi et jeudi matin)
 * Antoine Courtin : (présent toute la semaine)
 
-### Modalités de contacts
-
-* par visio : [https://meet.jit.si/SeminaireParis10_202106](https://meet.jit.si/SeminaireParis10_202106)
-* par mail université Paris Nanterre
 
 ### Modalité de rendu 
 
@@ -24,9 +20,11 @@
 * un format en ligne de type Github Pages qui centralisera vos réalisations, vos fichiers de travails, etc. à rendre le vendredi (mais qui sera à alimenter tout au long des 3 jours)
 * un article qui introduira votre production sur Github Pages et que sera repris sur le carnet de recherche du [service numérique de la recherche de l'INHA](http://numrha.hypotheses.org/) 
 
-### Liste des micro-formation/présentation lors du séminaire (à confirmer)
+### Liste des formations-flash/présentation lors du séminaire (à confirmer)
 
 * travailler collaborativement : pad / github / markdown
 * data wrangling tools : openrefine 
-* cartographie et visualisation : umaps / flourish 
+* cartographie et visualisations : umaps / flourish 
 * annotation d'image sur wikipedia commons : commons / wikidata / IIIF
+
+
