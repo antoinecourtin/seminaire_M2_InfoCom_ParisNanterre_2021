@@ -7,25 +7,6 @@ Ce planning prévisionnel est susceptible d'être modifié aux cours des semaine
 * Monté en compétence active sur des outils/bonnes pratiques autour des données patrimoniales
 * réaliser par groupe des exploitations de données dans une approche dite de **DataStorytelling**
 
-### Modalité de rendu 
-
-* Chaque soir, un rendu de 1 à 3 slides maximum pour détailler l'avancée du projet
-* un format en ligne de type Github Pages qui centralisera vos réalisations, vos fichiers de travails, etc.
-* un article qui introduira votre production sur Github Pages et que sera repris sur le carnet de recherche du [service numérique de la recherche de l'INHA](http://numrha.hypotheses.org/) 
-
-### Liste des micro-formation/présentation lors du séminaire (à confirmer)
-
-* travailler collaborativement : pad / github
-* data wrangling tools : openrefine 
-* cartographie et visualisation : umaps / flourish 
-* annotation d'image sur wikipedia commons : commons / wikidata / IIIF
-
-### Lieu du séminaire et horaires
-
-* Paris Nanterre, bâtiment de la formation continue (salle en cours de réservation)
-* Visio-conférence pour les sessions plénières (à confirmer)
-* Horaire : 9h30-12h30 / 14H-17h
-
 ## Organisation de la semaine
 
 #### Lundi 3 mai (horaires précis à confirmer) :
