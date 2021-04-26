@@ -5,7 +5,7 @@ Répertoire regroupant planning, présentations, jeux de données, ressources, e
 Ce séminaire *Dat@HDA* (données et histoire de l'art) est co-organisé par Antoine Courtin, accompagné de Dario Campagno, Benjamin Barbier et Nicolas Sauret.
 
 Accès au :
-* [planning](/planning.md)
+* [planning des 5 jours](/planning.md)
 * [Informations pratiques](/infopratiques.md)
 * [présentation des axes pour les projets](/projets.md)
 * [présentation des datasets](/datasets/presentation.md)
