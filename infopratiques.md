@@ -15,7 +15,7 @@
 
 ### Modalités de contacts
 
-* par visio : https://meet.jit.si/SeminaireParis10_202106
+* par visio : [https://meet.jit.si/SeminaireParis10_202106](https://meet.jit.si/SeminaireParis10_202106)
 
 ### Modalité de rendu 
 
