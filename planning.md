@@ -16,7 +16,7 @@ Ce planning prévisionnel est susceptible d'être modifié aux cours des semaine
    * 11h : Présentation de l'INHA
    * 12h : Echanges et questions
 * Après-midi 
-   * 13h30 : les inscriptions aux 2 sessions sont ouvertes (clôture à 18h)
+   * 13h30 : les inscriptions aux 2 sessions sont ouvertes (clôture à 18h) 
    * 14h-17h : présentation des outils de l'INA
 
 #### Mardi 4 mai  :
@@ -27,7 +27,7 @@ Ce planning prévisionnel est susceptible d'être modifié aux cours des semaine
 * Après-midi 
   * formation flash
   * travaux de groupe
-  * 16h30 : présentation des supports de chaque équipe
+  * 16h30 : présentation des supports de chaque équipe (1 problématique en 3 lignes + 1 méthodologie (algo, outils) 
 
 
 #### Mercredi 5 mai :
@@ -36,7 +36,7 @@ Ce planning prévisionnel est susceptible d'être modifié aux cours des semaine
     * travaux de groupe
 * Après-midi 
   * travaux de groupe
-  * 16h30 : présentation des supports de chaque équipe
+  * 16h30 : présentation des supports de chaque équipe (1er résultats, ébauche d'une documentation, problèmes rencontrés, etc.)
 
 
 #### Jeudi 6 mai :
@@ -45,7 +45,7 @@ Ce planning prévisionnel est susceptible d'être modifié aux cours des semaine
   * travaux de groupe
 * Après-midi 
   * travaux de groupe
-  * 16h30 : présentation des supports de chaque équipe
+  * 16h30 : présentation des supports de chaque équipe (résultats consolidés, idées de développements futurs, etc.)
 
 
 #### Vendredi 7 mai :
