@@ -11,13 +11,17 @@ L'objectif de ce projet est de s'intéresser à la mobilité des oeuvres dans le
 
 > outils envisagés : excel, openrefine, flourish
 
-> [voir le jeux de données]()
+> [voir le jeux de données](datasets/datasetprovevance.md)
 
 ### Projet 2 : Matérialité
 
 L'objectif de ce projet est de s'intéresser à la matéralité des objets beaux-arts et notamment la question des dimensions et de la représentation visuel de cette information dans les interfaces web.
 > afficher et comparer la taille d'objets culturels
+
 > outils envisagés : excel, openrefine, rawgraph, R
+
+> [voir le jeux de données](datasets/datasetmaterialite.md)
+
 
 ### Projet 3 : Iconographie et zones annotées
 
