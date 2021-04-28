@@ -6,7 +6,7 @@
 
 ### 2nd jeux de données
 
-> Voir la documentation du jeux de données
+> [Voir la documentation du jeux de données](datasetmaterialite.md)
 
 
 ### 3ème jeux de données
