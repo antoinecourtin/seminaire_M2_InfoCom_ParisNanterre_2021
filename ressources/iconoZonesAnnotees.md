@@ -11,15 +11,16 @@
 * Wikidata Image Positions : https://wd-image-positions.toolforge.org/ + [documentation](https://www.wikidata.org/wiki/User:Lucas_Werkmeister/Wikidata_Image_Positions)
 * IIIF Image Cropper : http://zone47.com/crotos/lab/cropper/?l=fr
 
-### Exemples requêtes
+### Exemples d'utilisation
 
 * Afficher dans Mirador, les zones annotées d'une image sur wikimedia commons
 ````
 https://mirador.toolforge.org/?manifest=https://tools.wmflabs.org/wd-image-positions/iiif/Q21013224/P18/manifest.json
 ````
+* VIsualiser toutes les zones annotées représentant un dragon : http://zone47.com/crotos/lab/cropper/p180iiif.php?q=Q7559&l=fr
 
-* Pour voir 
 
+### Exemple de requêtes (à compléter)
 ````sparql
 SELECT distinct ?item ?itemLabel ?coord (GROUP_CONCAT(distinct ?creatorLabel; separator=" - ") as ?crea)
 (GROUP_CONCAT(distinct STR(?collLabel); separator=" - ") as ?collection) (SAMPLE(year(?d))as ?date)(SAMPLE(?image) as ?img) (CONCAT("http://tools.wmflabs.org/zoomviewer/proxy.php?iiif=",STR(?img),"/",STR(?coord),"/full/0/default.jpg") as ?toto)
