@@ -14,8 +14,32 @@
 ### Exemples requêtes
 
 * Afficher dans Mirador, les zones annotées d'une image sur wikimedia commons
-'''
+````
 https://mirador.toolforge.org/?manifest=https://tools.wmflabs.org/wd-image-positions/iiif/Q21013224/P18/manifest.json
-'''
-Pour voir 
+````
 
+* Pour voir 
+
+````sparql
+SELECT distinct ?item ?itemLabel ?coord (GROUP_CONCAT(distinct ?creatorLabel; separator=" - ") as ?crea)
+(GROUP_CONCAT(distinct STR(?collLabel); separator=" - ") as ?collection) (SAMPLE(year(?d))as ?date)(SAMPLE(?image) as ?img) (CONCAT("http://tools.wmflabs.org/zoomviewer/proxy.php?iiif=",STR(?img),"/",STR(?coord),"/full/0/default.jpg") as ?toto)
+WHERE{
+ ?item wdt:P180/wdt:P279* wd:Q7307 .
+  ?item p:P180 ?DeclarationDepeint.
+ ?DeclarationDepeint ps:P180/wdt:P279* wd:Q7307.
+ ?DeclarationDepeint pq:P2677 ?coord.
+ ?item wdt:P18 ?image.
+ OPTIONAL{?item wdt:P571 ?d_crea.}
+ OPTIONAL{?item wdt:P577 ?d_publi.}
+ BIND(COALESCE(?d_crea, ?d_publi) AS ?d)
+ OPTIONAL{?item wdt:P170 ?creator.}
+ OPTIONAL{?item wdt:P195 ?coll.}
+ SERVICE wikibase:label { bd:serviceParam wikibase:language "[AUTO_LANGUAGE],fr,en,ar,be,bg,bn,ca,cs,da,de,el,es,et,fa,fi,he,hi,hu,hy,id,it,ja,jv,ko,nb,nl,eo,pa,pl,pt,ro,ru,sh,sk,sr,sv,sw,te,th,tr,uk,yue,vec,vi,zh".
+  ?item rdfs:label ?itemLabel.
+  ?creator rdfs:label ?creatorLabel.
+  ?coll rdfs:label ?collLabel.
+ }
+}
+GROUP BY ?item ?itemLabel ?coord 
+ORDER BY ?date
+````
