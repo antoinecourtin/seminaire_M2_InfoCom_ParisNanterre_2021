@@ -29,4 +29,4 @@ L'objectif de ce projet est de s'intéresser à la possibilité d'utiliser le co
 > A partir d'un sujet de votre choix, annoter un corpus visuel, savoir requêter et visualiser ses zones d'annotation
 > outils envisagés : wikidata, wikimedia commons, cropper IIIF
 
-> [voir les outils et des exemples de corpus](datasets/iconoZonesAnnotees.md)
+> [voir les outils et des exemples de corpus](ressources/iconoZonesAnnotees.md)
