@@ -20,16 +20,16 @@ es métadonnées sont placées sous licence Creative Commons 4.0. Dans ce cadre,
 
 
 #### Détails des colonnes des fichiers 
-artwork - TITRE	= titre/intitulé de l'object
-artwork - HAUTEUR	= hauteur
-artwork - UNIQUE_KEY = id de la notice documentaire de l'objet
-artwork - URL	= url de la notice sur AGORHA
-artwork - IMG_DIRECT_ACCESS	= url de la vignette de l'objet
-artwork - DISPLAY_DENOMINATION	= type d'oeuvre
-artwork - DISPLAY_LIEU_CONSERV	= lieux de conservation de l'oeuvre
-artwork - DISPLAY_MATIERE	= matière de l'objet
-artwork - DISPLAY_DATE_EXE_TXT	= date de l'objet
-artwork - LARGEUR	= largeur 
-artwork - DISPLAY_PERSONNE_AUTEUR	= auteur (attention, formulation, qui comprend le nom de l'auteur, ses dates et sa profession)
-artwork - DISPLAY_TECHNIQUE	= technique de l'object
-artwork - DISPLAY_ROLE_AUTEUR	= le rôle de l'auteur par rapport à l'oeuvre (de, d'après, etc.)
+* artwork - TITRE	= titre/intitulé de l'object
+* artwork - HAUTEUR	= hauteur
+* artwork - UNIQUE_KEY = id de la notice documentaire de l'objet
+* artwork - URL	= url de la notice sur AGORHA
+* artwork - IMG_DIRECT_ACCESS	= url de la vignette de l'objet
+* artwork - DISPLAY_DENOMINATION	= type d'oeuvre
+* artwork - DISPLAY_LIEU_CONSERV	= lieux de conservation de l'oeuvre
+* artwork - DISPLAY_MATIERE	= matière de l'objet
+* artwork - DISPLAY_DATE_EXE_TXT	= date de l'objet
+* artwork - LARGEUR	= largeur 
+* artwork - DISPLAY_PERSONNE_AUTEUR	= auteur (attention, formulation, qui comprend le nom de l'auteur, ses dates et sa profession)
+* artwork - DISPLAY_TECHNIQUE	= technique de l'object
+* artwork - DISPLAY_ROLE_AUTEUR	= le rôle de l'auteur par rapport à l'oeuvre (de, d'après, etc.)
