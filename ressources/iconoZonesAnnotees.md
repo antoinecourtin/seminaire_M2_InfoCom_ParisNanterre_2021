@@ -1,1 +1,1 @@
-## Outils et exemples pour le projet "Iconographie et zones annotées)
+## Outils et exemples pour le projet "Iconographie et zones annotées"
