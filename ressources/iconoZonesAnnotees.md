@@ -48,6 +48,6 @@ GROUP BY ?item ?itemLabel ?coord
 ORDER BY ?date
 
 ````
-![Image of Yaktocat](http://tools.wmflabs.org/zoomviewer/proxy.php?iiif=Amarillis Crowning Mirtillo.jpg/pct:43.6,25.9,17.5,14.8/full/0/default.jpg
+![Image of Yaktocat](http://tools.wmflabs.org/zoomviewer/proxy.php?iiif=Amarillis Crowning Mirtillo.jpg/pct:43.6,25.9,17.5,14.8/full/0/default.jpg)
 
 
