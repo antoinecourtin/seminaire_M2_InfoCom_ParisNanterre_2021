@@ -48,6 +48,5 @@ GROUP BY ?item ?itemLabel ?coord
 ORDER BY ?date
 
 ````
-![Image of Yaktocat](https://zoomviewer.toolforge.org/iipsrv.fcgi/?iiif=cache/7aee0518a33ba347a63fd4f6bc950956.tif/pct:43.6,25.9,17.5,14.8/full/0/default.jpg)
 
 
