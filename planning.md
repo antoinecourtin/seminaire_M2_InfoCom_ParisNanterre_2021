@@ -22,7 +22,7 @@ Ce planning prévisionnel est susceptible d'être modifié aux cours des semaine
 #### Mardi 4 mai  :
 * Matin
    * Echange et constitution définitif des groupes
-   * Problématisation du projet et receuil des besoins
+   * Problématisation du projet et recueil des besoins
    * formation flash
 * Après-midi 
   * formation flash
