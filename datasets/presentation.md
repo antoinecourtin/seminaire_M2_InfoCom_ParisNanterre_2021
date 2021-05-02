@@ -11,4 +11,4 @@
 
 ### 3ème jeux de données pour l'axe "iconographie et zones annotées"
 
-> [Voir les outils à utiliser et des exemmples d'utilisation](ressources/iconoZonesAnnotees.md)
+> [Voir les outils à utiliser et des exemmples d'utilisation](../ressources/iconoZonesAnnotees.md)
