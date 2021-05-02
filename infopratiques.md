@@ -13,6 +13,13 @@
 * Nicolas Sauret : (présent le mardi, mercredi et jeudi matin)
 * Antoine Courtin : (présent toute la semaine)
 
+### Modalités de prise de note, d'échanges
+
+* [Pad collaboratif du groupe 1](https://annuel2.framapad.org/p/dathda_groupe1)
+* [Pad collaboratif du groupe 2](https://annuel2.framapad.org/p/dathda_groupe2)
+* [Pad collaboratif du groupe 3](https://annuel2.framapad.org/p/dathda_groupe3)
+* [Pad collaboratif du groupe 4](https://annuel2.framapad.org/p/dathda_groupe4)
+
 
 ### Modalité de rendu 
 
