@@ -56,5 +56,5 @@ https://colab.research.google.com/drive/1ZJ3JAWkLkyku7OhSTDf6blbkHE7C6DeT#scroll
 
 | Zones annotées par SGoab | Zones annotées via P180/P2677          |
 | :--------------- |:---------------:|
-| ![le logo de Framasoft](https://framasoft.org/nav/img/logo.png) |    /img/Wikidata-Image-Positions.png   | 
+| ![img1](/img/Ez9gLw6WEAEv0Ix.jpeg) |    /img/Wikidata-Image-Positions.png   | 
 
