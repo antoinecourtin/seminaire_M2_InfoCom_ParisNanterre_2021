@@ -20,7 +20,7 @@ https://mirador.toolforge.org/?manifest=https://tools.wmflabs.org/wd-image-posit
 * VIsualiser toutes les zones annotées représentant un dragon : http://zone47.com/crotos/lab/cropper/p180iiif.php?q=Q7559&l=fr
 
 
-### Exemple de requêtes (à compléter)
+### Exemple de requêtes
 ````sparql
 SELECT distinct ?item ?itemLabel ?coord (GROUP_CONCAT(distinct ?creatorLabel; separator=" - ") as ?crea)
 (GROUP_CONCAT(distinct STR(?collLabel); separator=" - ") as ?collection)
@@ -49,4 +49,12 @@ ORDER BY ?date
 
 ````
 
+## Que peux-faire l'IA pour les oeuvres d'art
+Le Notebook de Saint George on a Bike (SGoaB)
+Saint George on a Bike (SGoaB) est un projet qui cherche à améliorer la qualité et la quantité des métadonnées ouvertes associées aux images du patrimoine culturel européen. Il vise en particulier à relever le défi consistant à fournir à l’intelligence artificielle un aperçu de la culture, des symboles et des traditions. Nous vous invitons à tester le modèle développé et formé par SGoaB via son Notebook de démonstration.
+https://colab.research.google.com/drive/1ZJ3JAWkLkyku7OhSTDf6blbkHE7C6DeT#scrollTo=V604rjBck_IL
+
+| Zones annotées par SGoab | Zones annotées via P180/P2677          |
+| :--------------- |:---------------:|
+| /img/Ez9gLw6WEAEv0Ix.jpeg |    /img/Wikidata-Image-Positions.png   | 
 
