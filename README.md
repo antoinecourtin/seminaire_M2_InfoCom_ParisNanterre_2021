@@ -10,6 +10,7 @@ Accès au :
 * [Pré-requis](/prerequis.md)
 * [présentation des axes pour les projets](/projets.md)
 * [présentation des datasets](/datasets/presentation.md)
+* [Ressources](/ressources/ressources.md)
 * [Les équipes et projets constituées](/equipes.md) : à construire le soir du 2ème jour
 
 
