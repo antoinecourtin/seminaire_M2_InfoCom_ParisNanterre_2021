@@ -56,5 +56,5 @@ https://colab.research.google.com/drive/1ZJ3JAWkLkyku7OhSTDf6blbkHE7C6DeT#scroll
 
 | Zones annotées par SGoab | Zones annotées via P180/P2677          |
 | :--------------- |:---------------:|
-| /img/Ez9gLw6WEAEv0Ix.jpeg |    /img/Wikidata-Image-Positions.png   | 
+| [](/img/Ez9gLw6WEAEv0Ix.jpeg) |    /img/Wikidata-Image-Positions.png   | 
 
