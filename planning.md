@@ -9,15 +9,17 @@ Ce planning prévisionnel est susceptible d'être modifié aux cours des semaine
 
 ## Organisation de la semaine
 
-#### Lundi 3 mai (horaires précis à confirmer) :
+#### Lundi 3 mai  :
 * Matin
-   * 9h30 : Accueil, présentation globale du séminaire (horaire, organisation, etc.)
-   * 10h : Présentation croisée des 2 sessions en parralèle (INHA / INA)
-   * 11h : Présentation de l'INHA
-   * 12h : Echanges et questions
+   * 9h30-10H:15 : Accueil, présentation globale du séminaire (horaire, organisation, etc.)
+   * 10h15-10h45 : Présentation corpus INA
+   * 10h45-11h : pause
+   * 11h-12h : Présentation des corpus, des outils et projets de recherche INHA
+   * 12h-14h : Echanges et questions avec les encadrants
 * Après-midi 
    * 13h30 : les inscriptions aux 2 sessions sont ouvertes (clôture à 18h) 
-   * 14h-17h : présentation des outils de l'INA
+   * 14h-14h : Présentation des outils et projets de recherche
+
 
 #### Mardi 4 mai  :
 * Matin
