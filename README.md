@@ -7,6 +7,7 @@ Ce séminaire *Dat@HDA* (données et histoire de l'art) est co-organisé par Ant
 Accès au :
 * [planning des 5 jours](/planning.md)
 * [Informations pratiques](/infopratiques.md)
+* [Pré-requis](/prerequis.md)
 * [présentation des axes pour les projets](/projets.md)
 * [présentation des datasets](/datasets/presentation.md)
 
