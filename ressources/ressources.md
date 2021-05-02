@@ -93,7 +93,7 @@ https://medium.com/@seeksanusername/exploiter-des-cartes-anciennes-num%C3%A9ris%
 ### Flourish
 
 * https://help.flourish.studio/category/10-flourish-basics
-*
+* [11 vidéos](https://www.youtube.com/playlist?list=PLI0e4-ERAU-M-I9FuNxirXWdhYkR0_G_x), chacune d'environ 8min, pour l'utilisation avancée de Flourish 
 
 ### Wikidata
 
