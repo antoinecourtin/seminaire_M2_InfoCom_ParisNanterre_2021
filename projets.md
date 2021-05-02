@@ -9,7 +9,7 @@
 L'objectif de ce projet est de s'intéresser à la mobilité des oeuvres dans leurs parcours de vie et donc de s'intéresser à leurs provenances.
 > visualiser des transferts d'oeuvres (de leurs lieux de production à leurs lieux de conservation actuel, etc.)
 
-> outils envisagés : excel, openrefine, flourish
+> outils envisagés : excel, openrefine, flourish, Palladio, http://www.mappingpaintings.org/
 
 > [voir le jeux de données](datasets/datasetprovevance.md)
 
