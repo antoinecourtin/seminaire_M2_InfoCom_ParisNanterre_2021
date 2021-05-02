@@ -130,3 +130,12 @@ Pour tester Palladio
   * jeux de tests :
      * télécharger le paquet json : [data_RETIF_HdF_2017_all_Palladio.json](https://github.com/antoinecourtin/DEFI_2019/raw/master/data_exemple/data_RETIF_HdF_2017_all_Palladio%20(1).json)
      * télécharger un fichier csv : [Export_EnvoisdeRome_oeuvres_20190325.csv](https://github.com/antoinecourtin/DEFI_2019/raw/master/data_exemple/Export_EnvoisdeRome_oeuvres_20190325.csv)
+
+### Catalogues de visualisation de données
+* www.datavizcatalogue.com
+* http://www.visualcomplexity.com/vc
+* http://ft-interactive.github.io/visual-vocabulary/
+* https://datavizproject.com/
+* http://chartmaker.visualisingdata.com/
+* https://www.anychart.com/chartopedia/usage-type/
+* https://journocode.com/data-journalism-tools/
