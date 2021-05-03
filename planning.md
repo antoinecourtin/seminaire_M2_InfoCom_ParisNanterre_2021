@@ -11,7 +11,7 @@ Ce planning prévisionnel est susceptible d'être modifié aux cours des semaine
 
 #### Lundi 3 mai  :
 * Matin
-   * 9h30-10H:15 : Accueil, présentation globale du séminaire (horaire, organisation, etc.) : [Voir le support](/supports_intervenants/Présentation3mai.pdf)
+   * 9h30-10H:15 : Accueil, présentation globale du séminaire (horaire, organisation, etc.) : [Voir le support](https://github.com/antoinecourtin/seminaire_M2_InfoCom_ParisNanterre_2021/blob/main/supports_intervenants/Pre%CC%81sentation3mai.pdf)
    * 10h15-10h45 : Présentation corpus INA
    * 10h45-11h : pause
    * 11h-12h : Présentation des corpus, des outils et projets de recherche INHA
