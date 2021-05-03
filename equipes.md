@@ -2,9 +2,6 @@
 
 | n°du groupe 	| nom du groupe 	| Composition 	| Axe 	| Problématique envisagée 	|
 |-	|-	|-	|-	|-	|
-| 0 	| GroupedeTest 	| Bob Dylan, Peintre B12, Magnoncourt 	| Provenance 	| Ou sont passés mes objets ? 	|
-| 1 	|  	|  	|  	|  	|
-| 2 	|  	|  	|  	|  	|
-| 3 	|  	|  	|  	|  	|
-| 4 	|  	|  	|  	|  	|
-| 5 	|  	|  	|  	|  	|
+| 1 	|  ???	|Aly Konate, Saliou Touré, Fodé DIOUNKOU  	| Provenance 	| à définir 	|
+| 2 	| ??? 	|Romain  LEPAGE, Ayao AWOUVI, Mickaël LIANG	| Matérialité 	|  à définir 	|
+| 3 	| ??? 	|Paul Darricarrère, Thomas Gibourdel, Nina Sarthou, Julien Matteï  	| Iconographie et zones annotées 	| à définir |
