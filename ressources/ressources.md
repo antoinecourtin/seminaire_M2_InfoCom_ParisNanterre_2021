@@ -1,7 +1,18 @@
 # Liste de ressources utiles à tous les projets
 
-### Tutoriels / auto-formation
+### D'autres jeux de données en histoire de l'art
+* Le site des collections des musées de la Ville de Paris : https://www.parismuseescollections.paris.fr/fr (export CSV à partir des résultats)
+* Liste de musées présents sur github avec libre téléchargement de jeux de données : https://github.com/Ambrosiani/museums-on-github
+
+### Markdown/github/jekyll
 * Tutoriel pour comprendre Markdown et l'utiliser : [https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_fr.md](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_fr.md)
+* [Récupérer un jeu de données et le mettre à jour grâce à git et Github](https://github.com/Humanistica/ArtDesignDH/blob/master/tutoriels/tutoriel_recuperer_un_jeu_de_donnees_grace_a_git.md)
+* Jekyyl = générateur de site statique fonctionne sur la base d’un référentiel de templates qui contient une série de fichiers texte structurés et statiques (markdowns) de différents formats. Ils déterminent non seulement la mise en page mais aussi le contenu de chaque projet Web.
+* Jekyll sur Github
+  * [exemple de repo tout simple utilisant GithubesPages avec Jeckyl](https://github.com/antoinecourtin/demogithubpages)
+* Jekyll sur Gitlab
+  * [tutoriel](https://docs.gitlab.com/ee/user/project/pages/getting_started/pages_from_scratch.html)
+  
 
 ### Petits outils pratiques en ligne 
 * générer des tables (html, markdown, etc.) : https://www.tablesgenerator.com/markdown_tables
@@ -13,15 +24,7 @@
   * [Transformy](http://www.transformy.io/#/) : petit outil en ligne pour modifier le format d'un jeu de données
   * [codebeautify](https://codebeautify.org/)
 
-### Jekyll
 
->  ce générateur de site statique fonctionne sur la base d’un référentiel de templates qui contient une série de fichiers texte structurés et statiques (markdowns) de différents formats. Ils déterminent non seulement la mise en page mais aussi le contenu de chaque projet Web.
-
-* Jekyll sur Github
-  * [exemple de repo tout simple utilisant GithubesPages avec Jeckyl](https://github.com/antoinecourtin/demogithubpages)
-* Jekyll sur Gitlab
-  * [tutoriel](https://docs.gitlab.com/ee/user/project/pages/getting_started/pages_from_scratch.html)
-  
 ### Quelques outils en ligne pour visualiser un corpus
 
 * https://macarte.ign.fr/ : création de carte
