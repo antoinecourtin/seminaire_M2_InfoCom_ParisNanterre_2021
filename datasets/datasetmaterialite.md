@@ -6,7 +6,7 @@ Lié à plusieurs programmes de recherche :
   * [**Le musée des Monuments français d'Alexandre Lenoir, histoire et collection**](https://www.inha.fr/fr/ressources/outils-documentaires/acces-global-et-organise-aux-ressources-en-histoire-de-l-art-agorha/le-musee-des-monuments-francais-d-alexandre-lenoir-histoire-et-collections.html?search-keywords=LENOIR)
 ### Composition du corpus téléchargé :
 
-Ce fichier readme précise la structure des 3 fichiers présent dans le [répertoire suivant](datamaterialite/), à savoir :
+Ce fichier readme précise la structure des 3 fichiers présent dans le [répertoire suivant](https://github.com/antoinecourtin/seminaire_M2_InfoCom_ParisNanterre_2021/tree/main/datasets/datamaterialite), à savoir :
 1. allLenoir.csv : les objets de la base Lenoir
 2. allRETIF.csv : les objets de la base RETIF
 3. allRothschild_v2.csv : les objets de la base Rothschild
