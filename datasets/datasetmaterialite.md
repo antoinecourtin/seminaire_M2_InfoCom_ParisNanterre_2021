@@ -9,7 +9,7 @@ Lié à plusieurs programmes de recherche :
 Ce fichier readme précise la structure des 3 fichiers présent dans le [répertoire suivant](datamaterialite/), à savoir :
 1. allLenoir.csv : les objets de la base Lenoir
 2. allRETIF.csv : les objets de la base RETIF
-3. allRothschild.csv : les objets de la base Rothschild
+3. allRothschild_v2.csv : les objets de la base Rothschild
 
 Ce sont tous des extraits des bases disponibles sur https://agorha.inha.fr/ selon les critères suivants :
 - des objets ayants une dimension largeur-hauteur
