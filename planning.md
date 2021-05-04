@@ -34,8 +34,9 @@ Ce planning prévisionnel est susceptible d'être modifié aux cours des semaine
 
 #### Mercredi 5 mai :
 * Matin
-    * formation flash
+    * formation flash au besoin
     * travaux de groupe
+    * obejctif : trouver un titre de groupe :-) 
 * Après-midi 
   * travaux de groupe
   * 16h30 : présentation des supports de chaque équipe (1er résultats, ébauche d'une documentation, problèmes rencontrés, etc.)
