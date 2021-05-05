@@ -13,7 +13,7 @@ Accès au :
 * [Ressources](/ressources/ressources.md)
 * [Les équipes et projets constituées](/equipes.md) : à construire le soir du 2ème jour
 * [Photo de la semaine](photos.md)
-* [Le support des équipes](https://github.com/antoinecourtin/seminaire_M2_InfoCom_ParisNanterre_2021/tree/main/support_groupe/jour1)
+* [Le support des équipes](https://github.com/antoinecourtin/seminaire_M2_InfoCom_ParisNanterre_2021/tree/main/support_groupe)
 
 
 |  |  |
