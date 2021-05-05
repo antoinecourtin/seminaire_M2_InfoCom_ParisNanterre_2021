@@ -6,5 +6,4 @@
 | 2 	| ??? 	|Romain  Lepage, Ayao Awouvi, Mickaël Liang	| Matérialité 	| Comment l’analyse du jeu de données permet-elle de mettre en avant la matérialisation des œuvres d’art en fonction d’une approche historique ?
 ![image](https://user-images.githubusercontent.com/5808531/117056839-0dac8900-ad1d-11eb-9f06-4e4a59e579d3.png)
  	| [voir](https://annuel2.framapad.org/p/dathda_groupe2)    |     |
-| 3 	| ??? 	|Paul Darricarrère, Thomas Gibourdel, Nina Sarthou, Julien Matteï  	| Iconographie et zones annotées 	| La place du miroir dans les représentations du narcissisme dans les arts au cours du temps
-![image](https://user-images.githubusercontent.com/5808531/117056893-1b620e80-ad1d-11eb-9389-cfff4d3b1c96.png)| [voir](https://annuel2.framapad.org/p/dathda_groupe3)    |     |
+
