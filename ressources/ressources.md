@@ -75,6 +75,7 @@ https://tools.wmflabs.org/openrefine-wikidata/fr/api
 * Extraire l'id (ou le nom du Q) de wikidata après le réalignement: `cell.recon.match.id / cell.recon.match.name`
 * Template pour croiser 2 jeux de données = `cell.cross("My Address Book", "friend")[0].cells["address"].value`
 => cell.cross("nomduprojet", "nomColonneeCléIntermédiaire")[0].cells["nomColonneArécupérer"].value
+* si plusieurs valeurs à récupérer dans un cell.cross, utiliser la formule suivante `forEach(cross(cell,"inha_ventes","id_objet"),v,v.cells["vente_ville"].value).join(' ; ')`
 * pour exporter en geojson : https://gist.github.com/psychemedia/53e30d3d151fea23af68
 * pour appeler une API tel que geonames : http://api.geonames.org/search?name=paris&country=FR&maxRows=3&username=formationbulac1
 
