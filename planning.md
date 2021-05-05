@@ -54,7 +54,7 @@ Ce planning prévisionnel est susceptible d'être modifié aux cours des semaine
 #### Vendredi 7 mai :
 * Matin
   * Présentation en plénière des travaux de chaque groupe des 2 séminaires (INA et INHA)
-  * Chaque groupe aura 10 minutes pour présenter et 5 minutes de questions. La présentation doit être transmise à l'encadrant au plus tard le soir avant. 
+  * Chaque groupe aura 10 minutes pour présenter et 5 minutes de questions. La présentation doit être transmise à l'encadrant au plus tard le soir d'avant.
     * 9h30 Provenance
     * 9h45 Matérialité 
     * 10h Iconographie et zones annotées
