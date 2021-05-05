@@ -11,7 +11,7 @@ Accès au :
 * [présentation des axes pour les projets](/projets.md)
 * [présentation des datasets](/datasets/presentation.md)
 * [Ressources](/ressources/ressources.md)
-* [Les équipes et projets constituées](/equipes.md) : à construire le soir du 2ème jour
+* [Les équipes et projets constituées](/equipes.md)
 * [Photo de la semaine](photos.md)
 * [Le support des équipes](https://github.com/antoinecourtin/seminaire_M2_InfoCom_ParisNanterre_2021/tree/main/support_groupe)
 
