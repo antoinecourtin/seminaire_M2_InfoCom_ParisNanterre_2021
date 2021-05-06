@@ -16,7 +16,6 @@
 
 ![jour4-1](https://github.com/antoinecourtin/seminaire_M2_InfoCom_ParisNanterre_2021/blob/main/photos/IMG_2814%20-%20copie.jpg?raw=true)
 ![jour4-2](https://github.com/antoinecourtin/seminaire_M2_InfoCom_ParisNanterre_2021/blob/main/photos/IMG_2815%20-%20copie.jpg?raw=true)
-![jour4-3](https://github.com/antoinecourtin/seminaire_M2_InfoCom_ParisNanterre_2021/blob/main/photos/IMG_2816%20-%20copie.jpg?raw=true)
 ![jour4-4](https://github.com/antoinecourtin/seminaire_M2_InfoCom_ParisNanterre_2021/blob/main/photos/IMG_2817%20-%20copie.jpg?raw=true)
 ![jour4-5](https://github.com/antoinecourtin/seminaire_M2_InfoCom_ParisNanterre_2021/blob/main/photos/IMG_2820%20-%20copie.jpg?raw=true)
 ![jour4-6](https://github.com/antoinecourtin/seminaire_M2_InfoCom_ParisNanterre_2021/blob/main/photos/IMG_2821%20-%20copie.jpg?raw=true)
